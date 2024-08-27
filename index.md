@@ -3,8 +3,6 @@
 
 Welcome to **Robart**, where innovation meets conversation. We specialize in developing cutting-edge chatbots and AI solutions that transform the way businesses interact with their customers.
 
-[Learn more about our services](./services.html).
-
 Our solutions are tailored to your needs, ensuring seamless integration and exceptional user experience.
 
 # About Robart
@@ -19,21 +17,13 @@ Our expertise includes:
 
 ### Custom Chatbot Development
 
-```js
 // We create bespoke chatbots that understand and engage with your customers.
-var chatbot = createChatbot({
-  language: 'en',
-  platform: 'web',
-  features: ['natural language processing', 'machine learning']
-});
-```
+
 
 ### AI Integration Services
 
-```ruby
 # We seamlessly integrate AI solutions into your existing systems, ensuring they work in harmony.
-integrateAI('CRM', 'MarketingAutomation', 'CustomerSupport')
-```
+
 
 #### Why Choose Robart?
 
