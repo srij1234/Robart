@@ -85,6 +85,4 @@ At Robart, we aim to revolutionize the way businesses operate by providing smart
 
 Interested in learning more? [Get in touch](./contact.html) with us today and let's start a conversation about how AI can transform your business.
 
-```
 
-This content is tailored to present your business, Robart, as a leader in chatbot development and AI solutions, highlighting your services, expertise, and commitment to innovation. You can further customize the content to include specific details about your offerings or client success stories. Let me know if you need any further adjustments!
