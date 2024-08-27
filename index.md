@@ -1,7 +1,5 @@
-```markdown
----
-layout: default
----
+
+
 
 Welcome to **Robart**, where innovation meets conversation. We specialize in developing cutting-edge chatbots and AI solutions that transform the way businesses interact with their customers.
 
