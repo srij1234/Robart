@@ -38,14 +38,6 @@ Our expertise includes:
 3.  **Deployment**: We deploy the solution and ensure seamless integration.
 4.  **Support**: We offer ongoing support to ensure your systems run smoothly.
 
-###### Our Success Stories
-
-| Client        | Solution Provided          | Outcome |
-|:--------------|:---------------------------|:--------|
-| E-commerce Co.| Chatbot for customer support| Increased engagement |
-| Fintech Start | AI-driven lead generation   | Boosted conversion rates |
-| HealthCare LLC| Automated appointment booking| Improved efficiency  |
-
 ### Our Services
 
 * * *
